@@ -5,8 +5,8 @@ __pycache__/
 
 # Robot Framework Results
 results/
-output.xml
-log.html
+*.xml
+*.html
 *.png
 *.log
 
